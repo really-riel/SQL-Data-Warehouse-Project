@@ -84,12 +84,11 @@ data-warehouse-project/
 │
 ├── datasets/
 ├── docs/
-│   ├── etl.drawio
 │   ├── data_architecture.drawio
 │   ├── data_catalog.md
 │   ├── data_flow.drawio
-│   ├── data_models.drawio
-│   ├── naming-conventions.md
+│   ├── data_model.drawio
+│   
 │
 ├── scripts/
 │   ├── bronze/
